@@ -1,0 +1,41 @@
+.header
+{
+    
+    background-color:rgb(0, 255, 149);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer
+{
+ display: flex;
+ 
+}
+
+body
+{
+    background-color:#000000;
+}
+
+.grid
+{
+    color: aqua;
+}
+
+a:link{
+    color:rgb(255, 255, 255);
+}
+
+a:visited{
+    color: #ff0000;
+}
+
+.origami:hover{
+    transform: scale(1.2);
+}
